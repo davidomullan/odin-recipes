@@ -1,4 +1,4 @@
-# Basic HTML Website with a few recipes
+# Website of Great Recipes!
 - [Project Guidelines](https://www.theodinproject.com/lessons/foundations-recipes)
 - Developer: [David M O'Mullan](https://github.com/davidomullan)
 
